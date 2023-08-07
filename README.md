@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sifat Jasim</h1>
+<h1 align="center">Hi 👋, I'm Sifat Bhuiyan</h1>
+[![](https://visitcount.itsvg.in/api?id=Sifat07&icon=3&color=12)](https://visitcount.itsvg.in)
 
 - 👋 Hi, I’m @sifat0666
 - 👀 I’m interested in web
