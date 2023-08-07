@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sifat Bhuiyan</h1>
 
 
-- 👋 Hi, I’m @sifat0666
 - 👀 I’m interested in web
-- 🌱 I’m currently learning gpt3
+- 🌱 I’m currently learning about LLMs
 - 💞️ I’m looking to collaborate on react projects
 - [![](https://visitcount.itsvg.in/api?id=sifat0666&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
