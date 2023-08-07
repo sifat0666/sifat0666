@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sifat Bhuiyan</h1>
-[![](https://visitcount.itsvg.in/api?id=sifat0666&icon=3&color=12)](https://visitcount.itsvg.in)
+
 
 - 👋 Hi, I’m @sifat0666
 - 👀 I’m interested in web
 - 🌱 I’m currently learning gpt3
 - 💞️ I’m looking to collaborate on react projects
+- [![](https://visitcount.itsvg.in/api?id=sifat0666&icon=3&color=12)](https://visitcount.itsvg.in)
 
 <!---
 sifat0666/sifat0666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
