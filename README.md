@@ -11,7 +11,7 @@ sifat0666/sifat0666 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center"># 📊 GitHub Stats:</h1>
+<h1 align="center">📊 GitHub Stats:</h1>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sifat0666)](https://git.io/streak-stats)
