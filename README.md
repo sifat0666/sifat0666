@@ -9,9 +9,11 @@
 sifat0666/sifat0666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
 
 <h1 align="center">📊 GitHub Stats:</h1>
 
 [![](https://visitcount.itsvg.in/api?id=sifat0666&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)  <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sifat0666)](https://git.io/streak-stats)
 
+--->
