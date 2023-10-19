@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in web
-- 🌱 I’m currently learning about LLMs
+- 🌱 I’m currently learning about THREE.js
 - 💞️ I’m looking to collaborate on react projects
 - For more https://portfolio-sifat0666.vercel.app/
 
